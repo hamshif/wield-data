@@ -1,0 +1,6 @@
+[submodule "Wielder"]
+	path = Wielder
+	url = git@github.com:hamshif/Wielder
+[submodule "wdata"]
+	path = wdata
+	url = git@github.com:hamshif/wdata
