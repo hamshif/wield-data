@@ -1,7 +1,7 @@
-# wield-data
-Super project (git submodule) creating and analyzing data in distributed environments.
+# data-wielder
+A Super project creating and analyzing data in distributed environments.
 
-This is a super repository for use in cloud data projects such as datalake
+This is a super repository (git submodule) for use in cloud data projects such as datalake
 It's used to version control code in different languages and frameworks organized in independent repositories
 
 Git
