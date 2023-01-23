@@ -20,7 +20,7 @@ git clone --recursive git@github.com:hamshif/data-wielder.git
 # or
 
 git clone git@github.com:hamshif/data-wielder.git
-cd data
+cd data-wielder
 git submodule update --init --recursive
 ```
 
