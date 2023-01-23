@@ -4,6 +4,14 @@ A Super project creating and analyzing data in distributed environments.
 This is a super repository (git submodule) for use in cloud data projects such as datalake
 It's used to version control code in different languages and frameworks organized in independent repositories
 
+ssh
+=
+For git submodules to work create a local ssh key
+1. Create a GitHub user
+2. Create an ssh key `ssh-keygen`
+3. Add your public key to GitHub
+
+
 Git
 =
 ```
