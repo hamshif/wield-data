@@ -15,11 +15,11 @@ For git submodules to work create a local ssh key
 Git
 =
 ```
-git clone --recursive git@github.com:hamshif/data-wielder.git
+git clone --recursive git@github.com:hamshifim/data-wielder.git
 
 # or
 
-git clone git@github.com:hamshif/data-wielder.git
+git clone git@github.com:hamshifim/data-wielder.git
 cd data-wielder
 git submodule update --init --recursive
 ```
