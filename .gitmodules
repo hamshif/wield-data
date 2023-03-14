@@ -3,4 +3,4 @@
 	url = git@github.com:hamshif/Wielder
 [submodule "wdata"]
 	path = wdata
-	url = git@github.com:hamshif/wdata
+	url = git@github.com:hamshifim/wdata
