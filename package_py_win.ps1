@@ -6,4 +6,6 @@ Set-Location $scriptDir
 
 ./Wielder/package_py_win.ps1
 
+cd $scriptDir
+
 ./wdata/package_py_win.ps1
