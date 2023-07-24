@@ -4,3 +4,6 @@
 [submodule "wdata"]
 	path = wdata
 	url = git@github.com:hamshifim/wdata
+[submodule "unreal-data-visualization"]
+	path = unreal-data-visualization
+	url = git@github.com:hamshifim/unreal-data-visualization.git
